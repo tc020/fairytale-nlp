@@ -18,9 +18,9 @@ The question behind the project: *Which adjectives characterise which characters
 
 ## Example
 
-Input (from *Der Teufel mit den drei goldenen Haaren*):
+Input (from *Schneewittchen*):
 
-> "Es ist ein unschuldiges Kind, es hat sich im Walde verirrt, und ich habe es aus Barmherzigkeit aufgenommen."
+> "Zu dem Fest wurde aber auch Sneewittchens gottlose Stiefmutter eingeladen."
 
 One assignment row in the output (field names are German, as is the whole code base) for every adjective:
 
