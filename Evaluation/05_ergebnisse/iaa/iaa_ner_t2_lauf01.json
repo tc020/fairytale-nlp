@@ -1,0 +1,133 @@
+{
+  "lauf": 1,
+  "etikett": "vor Adjudikation",
+  "richtlinie_version": "1.18",
+  "tranche": 2,
+  "zeitpunkt": "2026-09-13T11:33",
+  "ebene": "ner",
+  "bearbeitende": [
+    "A1",
+    "A3",
+    "A7",
+    "A8"
+  ],
+  "n_token": 2343,
+  "spannen_je_person": {
+    "A1": 112,
+    "A3": 116,
+    "A7": 116,
+    "A8": 112
+  },
+  "hauptmass_paarweises_f1": {
+    "mittel": 0.9240450263590011,
+    "paare": {
+      "A1-A3": {
+        "precision": 0.9051724137931034,
+        "recall": 0.9375,
+        "f1": 0.9210526315789473,
+        "spannen_a": 112,
+        "spannen_b": 116,
+        "treffer": 105
+      },
+      "A1-A7": {
+        "precision": 0.896551724137931,
+        "recall": 0.9285714285714286,
+        "f1": 0.912280701754386,
+        "spannen_a": 112,
+        "spannen_b": 116,
+        "treffer": 104
+      },
+      "A1-A8": {
+        "precision": 0.9285714285714286,
+        "recall": 0.9285714285714286,
+        "f1": 0.9285714285714286,
+        "spannen_a": 112,
+        "spannen_b": 112,
+        "treffer": 104
+      },
+      "A3-A7": {
+        "precision": 0.9051724137931034,
+        "recall": 0.9051724137931034,
+        "f1": 0.9051724137931035,
+        "spannen_a": 116,
+        "spannen_b": 116,
+        "treffer": 105
+      },
+      "A3-A8": {
+        "precision": 0.9732142857142857,
+        "recall": 0.9396551724137931,
+        "f1": 0.9561403508771931,
+        "spannen_a": 116,
+        "spannen_b": 112,
+        "treffer": 109
+      },
+      "A7-A8": {
+        "precision": 0.9375,
+        "recall": 0.9051724137931034,
+        "f1": 0.9210526315789473,
+        "spannen_a": 116,
+        "spannen_b": 112,
+        "treffer": 105
+      }
+    }
+  },
+  "cluster_bootstrap_95": [
+    0.8866435236443324,
+    0.9635337196344771
+  ],
+  "fehlerarten": {
+    "A1-A3": {
+      "uebereinstimmend": 105,
+      "grenzabweichung": 5,
+      "existenzabweichung": 13
+    },
+    "A1-A7": {
+      "uebereinstimmend": 104,
+      "grenzabweichung": 0,
+      "existenzabweichung": 20
+    },
+    "A1-A8": {
+      "uebereinstimmend": 104,
+      "grenzabweichung": 0,
+      "existenzabweichung": 16
+    },
+    "A3-A7": {
+      "uebereinstimmend": 105,
+      "grenzabweichung": 5,
+      "existenzabweichung": 17
+    },
+    "A3-A8": {
+      "uebereinstimmend": 109,
+      "grenzabweichung": 3,
+      "existenzabweichung": 7
+    },
+    "A7-A8": {
+      "uebereinstimmend": 105,
+      "grenzabweichung": 0,
+      "existenzabweichung": 18
+    }
+  },
+  "tokenebene": {
+    "prozent": 0.9923175416133164,
+    "fleiss_kappa": 0.9200085920490845,
+    "erwartet": 0.9039589552993279,
+    "kategorienverteilung": {
+      "O": 0.9495305164319249,
+      "B-FIGUR": 0.04844216816047802,
+      "I-FIGUR": 0.0020273154075970976
+    }
+  },
+  "abweichungsindex": {
+    "A1": 0.9206349206349206,
+    "A3": 0.9274551320830814,
+    "A7": 0.9128352490421457,
+    "A8": 0.9352548036758564
+  },
+  "nach_sammlung": {
+    "Andersen": 0.904137662453819,
+    "Arabisch": 0.9456556175306176,
+    "Grimm": 0.9495644310568768,
+    "Japanisch": 0.8854700115863637
+  },
+  "strittige_spannen": 33
+}

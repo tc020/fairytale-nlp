@@ -1,0 +1,26 @@
+%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#ffffff", "primaryBorderColor": "#000000", "primaryTextColor": "#000000", "lineColor": "#000000", "clusterBkg": "#ffffff", "clusterBorder": "#000000", "edgeLabelBackground": "#ffffff"}}}%%
+flowchart TB
+  subgraph TXT["Textgrundlage"]
+    K["Korpus<br/>80 Märchen in 4 Sammlungen"]
+    S["Sätze<br/>n = 9.252"]
+    K -->|"Satzsegmentierung"| S
+  end
+  subgraph FIG["Figuren"]
+    F0["Aggregationsschlüssel (Rollen)<br/>n = 1.090<br/>Belebtheit bestätigt: n = 437<br/>Belebtheit unbestätigt: n = 653"]
+    FX["Schlüssel ohne Profil<br/>n = 540 (49,5 %)"]
+    F0 -->|"kein zugeordneter<br/>Beleg"| FX
+  end
+  subgraph BEL["Adjektivbelege"]
+    B0["Adjektivbelege<br/>n = 11.022"]
+    BX["Offene Belege<br/>n = 6.768 (61,4 %)<br/>darunter gesperrt: n = 307"]
+    B3["Zugeordnete Belege<br/>n = 4.254 (38,6 %)<br/>unmittelbar: n = 2.898<br/>über Nachauflösung: n = 1.356"]
+    B0 -->|"keine<br/>Zuordnung"| BX
+    B0 -->|"Zuordnung zu<br/>einer Figur"| B3
+  end
+  F1["Figurenprofile<br/>n = 550 (50,5 %)"]
+  K -->|"NER (Label FIGUR),<br/>Kanonisierung"| F0
+  S -->|"POS-Filter: Adjektive<br/>(ADJA, ADJD)"| B0
+  F0 -->|"mindestens ein<br/>zugeordneter Beleg"| F1
+  B3 -->|"Aggregation<br/>je Rolle"| F1
+  classDef rest stroke-dasharray: 6 4;
+  class BX,FX rest;

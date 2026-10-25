@@ -1,0 +1,21 @@
+person,id,token,strittig,kommentar
+A3,154,Urgroßvaters,False,"Laut Regeln ist Figur im Genitiv B-Figur, falls ich das nicht falsch verstanden habe"
+A3,155,Portrait,True,Portrait spricht
+A3,235,Feldblume,True,"später im Märchen singt die Feldblume, agiert also selbstständig"
+A3,1566,Wachen,True,nicht sicher ob hier konkrete oder generische Gruppe
+A3,1582,Wächter,False,“einer der Wächter” Figur?
+A7,1481,Vornehmen,True,"da die Personen auf einem Schiff sind, eine begrenzte Personengruppe"
+A7,1483,Kaufleuten,True,"da die Personen auf einem Schiff sind, eine begrenzte Personengruppe"
+A7,1661,Maghrabis,True,keine Ahnung wer oder was das sind
+A7,1728,Habgierigen!‹,True,Unsicher wie allgemein es gemeint ist
+A7,1980,Gläubigen,True,"bezogen auf dem Kalifen, eine definierte Gruppe"
+A7,2030,Gäste,True,bezogen auf Dscha’afar eine definierte Gruppe
+A7,2359,Finger,True,"Vermutlich Langfinger, also eine Person"
+A7,3047,Freunde,True,eine gezielte Gruppe einer Person
+A7,3049,Verwandten,True,siehe oben bei Freunde
+A7,3656,Genossen,True,gezielte Gruppe von Jiraiya
+A7,3769,Fasan,False,"später in Aktionen eingewoben, also Person"
+A7,3991,Gefolge,True,gezielte Gruppe des Daimyo
+A7,4059,Leuten,True,"sehr allgemein, keine definierte Personengruppe"
+A7,4107,Neidern,True,"direkt benannte Gruppe, bezogen auf dem Nächsten weiter unten"
+A7,4109,Habgierigen,True,"direkt benannte Gruppe, bezogen auf dem Nächsten weiter unten"

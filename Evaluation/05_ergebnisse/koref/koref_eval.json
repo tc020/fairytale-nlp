@@ -1,0 +1,38 @@
+{
+  "zeitpunkt": "2026-09-13T20:42",
+  "ebene": "koreferenz",
+  "gold": "/home/timc/Workspace/fairytale-personality-profiling/maerchen-goldstandard/04_konsolidiert/pronomen_gold_final.csv",
+  "einheiten_gesamt": 248,
+  "einheiten_auswertbar": 238,
+  "einheiten_mit_figur": 191,
+  "einheiten_sonderwerte": 47,
+  "erzaehlungen": 20,
+  "aufloesungsquote": 0.4973821989528796,
+  "cluster_bootstrap_95": [
+    0.3557091110821042,
+    0.6377489826515312
+  ],
+  "sonderwerte_korrekt": 0.9574468085106383,
+  "klassen": {
+    "unveraendert_korrekt": 45,
+    "nicht_ersetzt": 44,
+    "korrekt": 95,
+    "falsche_figur": 52,
+    "satz_nicht_gefunden": 10,
+    "faelschlich_ersetzt": 2
+  },
+  "nach_typ": {
+    "demonstrativ": 0.15384615384615385,
+    "personal": 0.5224719101123596
+  },
+  "nach_sammlung": {
+    "Andersen": 0.5142857142857142,
+    "Arabisch": 0.49056603773584906,
+    "Grimm": 0.42,
+    "Japanisch": 0.5660377358490566
+  },
+  "agreement_bearbeitende": {
+    "quote": 0.871,
+    "fleiss_kappa": 0.858
+  }
+}

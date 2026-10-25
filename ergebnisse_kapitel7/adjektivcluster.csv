@@ -1,0 +1,60 @@
+Cluster-ID,Benennung,Benennungsstufe,Normformen,Belegmasse,Mitglieder,Urteil
+1,LEBENDIG,synset,5,31,"lebendig, aufmerksam, vertraut, anschaulich, erfolgreich",D
+2,ANDERER/EIGEN/SORGFÄLTIG,mehrheitsregel,12,95,"anderer, eigen, sorgfältig, gerecht, verständig, inständig, sämtlich, unmittelbar, allgemein, aufrecht, beständig, vertraulich",C
+3,FREI/BEFREIE,mehrheitsregel,2,9,"frei, befreie",C
+4,BEREIT/NÖTIG/UNMÖGLICH,mehrheitsregel,7,33,"bereit, nötig, unmöglich, verwünscht, möglich, angewiesen, unerreichbar",B
+5,ERSTER/ZWEITER/DRITTER,mehrheitsregel,4,36,"erster, zweiter, dritter, letzter",E
+6,ABGEDANKT/EINSTIMMIG/VERABSCHIEDET,mehrheitsregel,3,8,"abgedankt, einstimmig, verabschiedet",A
+7,TREU,synset,2,51,"treu, getreu",A
+8,LAUT,synset,3,26,"laut, folgend, gemäß",E
+9,GUT/GENAU/FALSCH,mehrheitsregel,10,180,"gut, genau, falsch, voll, vorsichtig, sicher, klar, richtig, vernünftig, ordentlich",B
+10,ERNST,synset,4,42,"zufrieden, ernst, unzufrieden, ernsthaft",B
+11,STARK,synset,5,49,"schwach, stark, leicht, deutlich, schwer",B
+12,SCHNELL,synset,4,63,"schnell, rasch, langsam, früh",B
+13,SELTSAM,synset,5,36,"fremd, seltsam, langweilig, merkwürdig, altmodisch",A
+14,HÄSSLICH/SCHLECHT/BITTERLICH,mehrheitsregel,17,76,"häßlich, schlecht, bitterlich, schlimm, entsetzlich, abscheulich, bedenklich, schrecklich, ärgerlich, dürftig, erbärmlich, fürchterlich, jämmerlich, reinlich, schändlich, untröstlich, unverschämt",A
+15,PLÖTZLICH/HEIMLICH/SCHLICH,mehrheitsregel,13,82,"plötzlich, heimlich, schlich, augenblicklich, ängstlich, vergeblich, erschöpft, bedächtig, flüchtig, gemächlich, nachdenklich, verzweifelt, überdrüssig",C
+16,WIRKLICH,synset,8,67,"ganz, recht, wirklich, wahrlich, ehrlich, natürlich, unendlich, ungeheuer",E
+17,KÜNSTLICH/GEWÖHNLICH/VOLLKOMMEN,mehrheitsregel,13,52,"künstlich, gewöhnlich, vollkommen, glich, behaglich, reichlich, verdrießlich, kläglich, kümmerlich, menschlich, redlich, sorglich, unverdrossen",D
+18,BUNT,oberbegriff,5,68,"schwarz, rot, blau, gelb, grau",A
+19,BUNT/GOLDEN/BLÜHEND,mehrheitsregel,6,25,"bunt, golden, blühend, blutrot, hell, leuchtend",A
+20,SCHÖN/HÜBSCH/FEIN,mehrheitsregel,6,171,"schön, hübsch, fein, süß, edel, glänzend",A
+21,BEKANNT,synset,4,27,"bekannt, berühmt, unbekannt, beliebt",B
+22,PERSISCH/CHINESISCH,mehrheitsregel,2,8,"persisch, chinesisch",A
+23,REICH/PRÄCHTIG/STATTLICH,mehrheitsregel,7,56,"reich, prächtig, stattlich, erstlich, königlich, steinreich, vortrefflich",A
+24,FRISCH/DICHT/BEDECKT,mehrheitsregel,9,45,"frisch, dicht, bedeckt, gebraten, oberer, schwimmend, trocken, umschlang, verkleidet",D
+25,GESCHICKT/BELADEN/UNGESCHICKT,mehrheitsregel,4,14,"geschickt, beladen, ungeschickt, bewaffnet",B
+26,LANG/ENTFERNT/NAHE,mehrheitsregel,7,71,"lang, entfernt, nahe, breit, tief, weit, ungefähr",B
+27,HOHER/GERING,mehrheitsregel,2,13,"hoher, gering",B
+28,KLEIN,synset,3,351,"klein, groß, winzig",B
+29,FREUNDLICH/HERRLICH/LIEBLICH,mehrheitsregel,17,107,"freundlich, herrlich, lieblich, fröhlich, niedlich, vergnügen, wunderbar, reizend, wunderlich, himmlisch, köstlich, liebenswürdig, zärtlich, allerliebst, entzücken, verzaubert, wunderschön",A
+30,LIEB/GLÜCKLICH/EINSAM,mehrheitsregel,6,165,"lieb, glücklich, einsam, geliebt, unglücklich, wohlhabend",B
+31,FROH/ERFREUT/STOLZ,mehrheitsregel,8,54,"froh, erfreut, stolz, dankbar, hocherfreut, willkommen, herzlich, neidisch",A
+32,HEILIG/GOTTLOS/FROMM,mehrheitsregel,10,91,"heilig, gottlos, fromm, gnädig, gehorsam, demütig, gottesfürchtig, gütig, heil, tugendhaft",B
+33,GELEHRT/GEMACHT/GEMEIN,mehrheitsregel,4,11,"gelehrt, gemacht, gemein, gepriesen",D
+34,ALLMÄCHTIG/ERHABEN/WÜRDIG,mehrheitsregel,7,39,"allmächtig, erhaben, würdig, gewahr, gewiß, töricht, wahr",C
+35,WEISS/WEIS,mehrheitsregel,2,38,"weiß, weis",A
+36,MUSST/KANNST,mehrheitsregel,2,5,"mußt, kannst",E
+37,NEU/FERTIG/EWIG,mehrheitsregel,6,48,"neu, fertig, ewig, leer, auswendig, mühsam",D
+38,EINZIG/ÜBRIG/GETROST,mehrheitsregel,6,40,"einzig, übrig, getrost, rein, teuer, wert",C
+39,JEMAND,oberbegriff,3,77,"tot, verstorben, ermordet",A
+40,UNSCHULDIG/SCHULDIG/LEDIG,mehrheitsregel,6,21,"unschuldig, schuldig, ledig, prinz, willenlos, willfährig",B
+41,ALTE/JUNG/BETAGT,mehrheitsregel,5,331,"alte, jung, betagt, rüstig, schwarzhaarig",B
+42,_/BANG/HOLD,mehrheitsregel,3,15,"_, bang, hold",D
+43,WARM/KALT/HEISS,mehrheitsregel,3,11,"warm, kalt, heiß",B
+44,KRANK/GESUND/GIFTIG,mehrheitsregel,3,42,"krank, gesund, giftig",B
+45,MÜDE/SATT/HUNGRIG,mehrheitsregel,7,61,"müde, satt, hungrig, unruhig, wach, durstig, schläfrig",B
+46,ARM/BÖS/DUMM,mehrheitsregel,10,176,"arm, bös, dumm, elend, wehe, arg, faul, lahm, leid, übel",A
+47,FEST,synset,3,15,"fest, steif, starr",A
+48,FETT/DICK/BLASS,mehrheitsregel,6,15,"fett, dick, blaß, krumm, mager, runzelig",B
+49,ERSCHROCKEN/BETRÜBT/VERWUNDERT,mehrheitsregel,7,55,"erschrocken, betrübt, verwundert, erstaunt, bestürzt, entsetzt, verwirrt",A
+50,RATLOS,synset,5,12,"ratlos, abwesend, fassungslos, hilflos, machtlos",A
+51,ZORNIG/EILIG/GRIMMIG,mehrheitsregel,10,46,"zornig, eilig, grimmig, wütend, höhnisch, beschämt, hastig, mitleidig, mißmutig, zögernd",C
+52,KLUG/MUTIG/ÜBERMÜTIG,mehrheitsregel,8,34,"klug, mutig, übermütig, einfältig, furchtlos, kühn, listig, ungestüm",B
+53,LUSTIG/TRAURIG/GARSTIG,mehrheitsregel,13,122,"lustig, traurig, garstig, boshaft, grausam, bitterböse, frech, hartherzig, rachsüchtig, schlau, verflucht, verrucht, verrückt",B
+54,HALB/BLEICH/SCHLAFEND,mehrheitsregel,11,42,"halb, bleich, schlafend, zitternd, lächelnd, betrunken, jammernd, lachend, nackend, schmutzig, weinend",B
+55,WILD/GESCHWIND/MUNTER,mehrheitsregel,9,58,"wild, geschwind, munter, vornehm, behend, heiter, hölzern, kleinlaut, närrisch",C
+56,STILL/LEISE/RUHIG,mehrheitsregel,11,86,"still, leise, ruhig, sanft, zart, mild, zahm, brummig, feurig, gutmütig, inbrünstig",A
+57,BRAV/FREUDIG/FLEISSIG,mehrheitsregel,8,40,"brav, freudig, fleißig, neugierig, ungeduldig, eifrig, artig, geduldig",B
+58,TAPFER,synset,3,21,"tapfer, wacker, beherzt",A
+59,HEFTIG,synset,6,49,"gewaltig, heftig, tüchtig, mächtig, hart, kräftig",A

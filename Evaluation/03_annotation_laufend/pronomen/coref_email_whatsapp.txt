@@ -1,0 +1,58 @@
+############################ E-Mail ############################
+
+Subject: Pronomen-Annotation: Mappe und Anleitung
+
+Heeeellluuuuu Alice,
+
+hier sind deine Unterlagen für den zweiten Teil:
+
+• A2_pronomen_iaa.xlsx – deine Arbeitsmappe
+• Anleitung Pronomen-Annotation – bitte vorher einmal durchlesen
+• die Märchentexte – die brauchst du wirklich, zum nachschlagen der Sätze. Kannst sie aber auch ganz lesen, wenn du lustig bist :D
+
+Die Aufgabe: In jeder Zeile ist ein Fürwort hervorgehoben (er, sie, es, das …). Du trägst ein, auf welche Figur es sich bezieht.
+
+Zwei Beispiele:
+
+1) „Der Müller ging in den Wald, und dort traf **er** die alte Hexe."
+   → Müller
+   Also einfach der Name oder die Bezeichnung der Figur, so wie sie im Märchen vorkommt.
+
+2) „**Es** war Nacht, und der Wind heulte."
+   → expletiv
+   Dieses „es" meint niemanden, es ist nur ein Füllwort. Dafür gibt es feste Einträge im Dropdown: expletiv, keine_figur (wenn ein Ding oder eine Aussage gemeint ist) und unklar.
+
+Wichtig: Fürwörter verweisen meistens zurück, oft über mehrere Sätze hinweg. In der Mappe siehst du deshalb zwei Kontextspalten – den Satz selbst und die drei bis vier Sätze drumherum. Bei etwa jeder zehnten Zeile reicht auch das nicht, dann musst du im Märchen nachlesen. Das ist ausdrücklich Teil der Aufgabe und kein Zeichen dafür, dass du etwas falsch machst.
+
+Zurück bräuchte ich die Mappe in 2-3 Wochen. Falls du aber länger brauchst, kein Problem. Dann meld dich einfach kurz. Wäre kein Weltuntergang :) 
+
+Bitte allein durcharbeiten, kein ChatGPT – wir vergleichen später genau diese menschlichen Einschätzungen. Und wenn du bei einer Zeile nicht weiterkommst: „unklar" eintragen und in der Kommentarspalte kurz notieren, woran es lag. Das ist deutlich wertvoller als eine geratene Figur.
+
+Meld dich, wenn was unklar ist. Und vielen lieben Dank, dass du mir hilfst!! <3
+
+Beste Grüße
+Timmy
+
+
+############################ WhatsApp ############################
+
+Huhu, hier die Aufgabe, Details in der Mail:
+
+Du bekommst wieder eine Excel-Mappe. Diesmal ist in jeder Zeile ein Fürwort hervorgehoben (er, sie, es, das …), und du trägst ein, auf welche Figur es sich bezieht.
+
+Zwei Beispiele:
+
+„Der Müller ging in den Wald, und dort traf **er** die alte Hexe."
+→ Müller
+
+„**Es** war Nacht, und der Wind heulte."
+→ expletiv
+Dieses „es" meint niemanden. Für solche Fälle gibt es feste Einträge im Dropdown: expletiv, keine_figur, unklar.
+
+Ein Unterschied zur letzten Aufgabe: Fürwörter verweisen zurück, oft über mehrere Sätze. Du hast deshalb zwei Kontextspalten in der Mappe. Bei etwa jeder zehnten Zeile reicht das trotzdem nicht, dann musst du im Märchen nachlesen – das gehört dazu, die Texte liegen bei.
+
+Sonst wie beim letzten Mal: allein arbeiten, keine Absprachen, kein ChatGPT. Und wenn du nicht weiterkommst, lieber „unklar" eintragen als raten.
+
+Alles Weitere in der Anleitung im Mailanhang.
+
+Alles Weitere in der E-Mail und im Mailanhang. Melde dich einfach, falls etwas unklar ist. Vielen Dank für deine Hilfe! <3

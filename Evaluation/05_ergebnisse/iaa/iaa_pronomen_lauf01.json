@@ -1,0 +1,156 @@
+{
+  "lauf": 1,
+  "etikett": "vor Adjudikation",
+  "zeitpunkt": "2026-09-13T19:04",
+  "ebene": "pronomen",
+  "bearbeitende": [
+    "A4",
+    "A2",
+    "A5"
+  ],
+  "messgrundlage": {
+    "n_verglichen": 49,
+    "n_mind_eine_zweitperson": 49,
+    "erzaehlungen": [
+      "0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad",
+      "1_Die drei Spinnerinnen",
+      "2_Des Kaisers neue Kleider",
+      "3_Das Mädchen mit dem Holznapfe"
+    ]
+  },
+  "streng": {
+    "n": 49,
+    "prozent": 0.421768707482993,
+    "fleiss_kappa": 0.3789144050104382,
+    "beobachtet": 0.421768707482993,
+    "erwartet": 0.06899902818270164,
+    "einstimmig": 8,
+    "uneinig": 41
+  },
+  "normalisiert": {
+    "n": 49,
+    "prozent": 0.8707482993197279,
+    "fleiss_kappa": 0.8579204395157187,
+    "beobachtet": 0.8707482993197279,
+    "erwartet": 0.09028645471794161,
+    "einstimmig": 40,
+    "uneinig": 9
+  },
+  "hauptauswertung": "normalisiert",
+  "quote": 0.870748299319728,
+  "cluster_bootstrap_95": [
+    0.8263888888888888,
+    0.8993710691823898
+  ],
+  "wilson_95": [
+    0.7494094211951192,
+    0.938180154694584
+  ],
+  "paarweise": {
+    "A4-A2": {
+      "prozent": 0.9183673469387755,
+      "fleiss_kappa": 0.9107468123861566,
+      "uneinig": 4
+    },
+    "A4-A5": {
+      "prozent": 0.8367346938775511,
+      "fleiss_kappa": 0.8201834862385321,
+      "uneinig": 8
+    },
+    "A2-A5": {
+      "prozent": 0.8571428571428571,
+      "fleiss_kappa": 0.8419354838709677,
+      "uneinig": 7
+    }
+  },
+  "abweichungsindex": {
+    "A4": 0.8775510204081634,
+    "A2": 0.8877551020408163,
+    "A5": 0.846938775510204
+  },
+  "modellnaehe": {
+    "A4": {
+      "chatgpt-gpt5.6-luna_final": {
+        "mit_modell": 0.2222222222222222,
+        "mit_menschen": 0.33333333333333337,
+        "differenz": -0.11111111111111116,
+        "n_schwer": 9
+      },
+      "claude-fable5_final": {
+        "mit_modell": 0.4444444444444444,
+        "mit_menschen": 0.33333333333333337,
+        "differenz": 0.11111111111111105,
+        "n_schwer": 9
+      },
+      "claude-opus5_final": {
+        "mit_modell": 0.4444444444444444,
+        "mit_menschen": 0.33333333333333337,
+        "differenz": 0.11111111111111105,
+        "n_schwer": 9
+      }
+    },
+    "A2": {
+      "chatgpt-gpt5.6-luna_final": {
+        "mit_modell": 0.2222222222222222,
+        "mit_menschen": 0.3888888888888889,
+        "differenz": -0.16666666666666669,
+        "n_schwer": 9
+      },
+      "claude-fable5_final": {
+        "mit_modell": 0.5555555555555556,
+        "mit_menschen": 0.3888888888888889,
+        "differenz": 0.16666666666666669,
+        "n_schwer": 9
+      },
+      "claude-opus5_final": {
+        "mit_modell": 0.4444444444444444,
+        "mit_menschen": 0.3888888888888889,
+        "differenz": 0.055555555555555525,
+        "n_schwer": 9
+      }
+    },
+    "A5": {
+      "chatgpt-gpt5.6-luna_final": {
+        "mit_modell": 0.5555555555555556,
+        "mit_menschen": 0.16666666666666666,
+        "differenz": 0.38888888888888895,
+        "n_schwer": 9
+      },
+      "claude-fable5_final": {
+        "mit_modell": 0.5555555555555556,
+        "mit_menschen": 0.16666666666666666,
+        "differenz": 0.38888888888888895,
+        "n_schwer": 9
+      },
+      "claude-opus5_final": {
+        "mit_modell": 0.4444444444444444,
+        "mit_menschen": 0.16666666666666666,
+        "differenz": 0.2777777777777778,
+        "n_schwer": 9
+      }
+    }
+  },
+  "modelle": [
+    "chatgpt-gpt5.6-luna_final",
+    "claude-fable5_final",
+    "claude-opus5_final"
+  ],
+  "nach_typ": {
+    "demonstrativ": 0.6666666666666666,
+    "personal": 0.9047619047619048
+  },
+  "nach_sammlung": {
+    "Andersen": 0.8787878787878788,
+    "Arabisch": 0.8055555555555555,
+    "Grimm": 0.9047619047619048,
+    "Japanisch": 0.8888888888888888
+  },
+  "nach_kategorie": {
+    "expletiv": 0.3333333333333333,
+    "figurenname": 0.9166666666666666,
+    "kein_pronomen": 0.3333333333333333,
+    "keine_figur": 1.0
+  },
+  "divergenzen": 9,
+  "nur_schreibweise": 32
+}

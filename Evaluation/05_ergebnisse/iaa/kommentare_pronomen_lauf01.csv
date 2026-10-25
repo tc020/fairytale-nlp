@@ -1,0 +1,62 @@
+person,erzaehlung,pronomen,strittig,kommentar
+A4,2_Des Kaisers neue Kleider,dasselbe,False,Bezieht sich auf das Gesagte
+A4,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,das,False,Referiert auf Dinar
+A4,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,es,False,Referiert auf Dinar
+A4,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,ihn,False,Referiert auf Dinar
+A4,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,ihn,False,Referiert auf Dinar
+A2,2_Des Kaisers neue Kleider,er,False,"damit ""er"" dasselbe  →  Minister"
+A2,2_Des Kaisers neue Kleider,dasselbe,False,Demonstrativpronomen. Bezieht sich auf die Aussage der Weber
+A2,2_Des Kaisers neue Kleider,er,False,Wenn *er* zum → Minister
+A2,2_Des Kaisers neue Kleider,das,True,"Demonstrativpronomen. → Bezieht sich darauf, was der Minister in der Zukunft macht."
+A2,2_Des Kaisers neue Kleider,er,False,"das tat ""er"" → Minister"
+A2,2_Des Kaisers neue Kleider,es,False,"um ""es"" zum → Bezieht sich auf die angeforderte Ware"
+A2,2_Des Kaisers neue Kleider,Sie,False,"""sie"" steckten alles → referiert auf die Betrüger, die sich als Weber ausgeben,"
+A2,2_Des Kaisers neue Kleider,sie,False,"Aber ""sie"" fuhren → referiert auf die Betrüger, die sich als Weber ausgeben,"
+A2,2_Des Kaisers neue Kleider,es,True,"""wie ""es"" mit → bezieht sich nicht eindeutig auf ein Ding sondern eher als ""Platzhalter"""
+A2,2_Des Kaisers neue Kleider,er,False,"aber ""er"" hat → der Kaiser"
+A2,2_Des Kaisers neue Kleider,er,False,"aber ""er"" hat → der Kaiser"
+A2,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,das,False,"Nimm ""das"" → bezieht sich auf den Dinar, den Ali einem Torwächter gibt."
+A2,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,es,False,"Wechsel ""es"" → bezieht sich auf den Dinar, den Ali einem Torwächter gibt."
+A2,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,ihn,False,"Der Mann nahm ""ihn"" → bezieht sich auf den Dinar, den Ali einem Torwächter gibt."
+A2,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,ihn,False,"wechselte ""ihn"" → bezieht sich auf den Dinar, den Ali einem Torwächter gibt."
+A2,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,er,False,"""Er"" aß also → Ali"
+A2,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,ihnen,True,"die Nacht bei ""ihnen""→ Torwächter bei Bagdad"
+A2,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,ihn,False,"führte ""ihn"" einer → Ali"
+A2,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,er,True,"verließ ""er"" ihn → der Kaufmann aus Bagdad mit dem verfluchten Hause"
+A2,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,ihn,False,"verlier er ""ihn"" und → Ali"
+A2,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,ihm,False,"schickte ""ihm"" alsbald → Ali"
+A2,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,Die,True,Bzw die Sklave/Folgschaft des Kaufmannes. Könnte aber auch als Artikel gesehen werden
+A2,1_Die drei Spinnerinnen,Das,False,"""das"" ließ sich  → Bezieht sich auf die Aussage des Mädchen, es könne vor lauter heimweh nicht arbeiten"
+A2,1_Die drei Spinnerinnen,es,False,"wußte ""es"" sich → das Mädchen"
+A2,1_Die drei Spinnerinnen,es,False,"sah ""es"" drei Weiber → Das Mädchen"
+A2,1_Die drei Spinnerinnen,sie,False,Bezieht sich auf die Unterlippe der 2. Frau
+A2,1_Die drei Spinnerinnen,Die,False,"""die"" bluieben vor → bezieht sich auf die 3 Frauen/basen"
+A2,1_Die drei Spinnerinnen,ihm,False,"was ""ihm"" fehlte → das Mädchen"
+A2,1_Die drei Spinnerinnen,sie,False,"richtete ""sie"" die Hochzeit → die Königin"
+A2,1_Die drei Spinnerinnen,er,True,"bzw. der Prinz, wird jedoch nur Bräutigam genannt"
+A2,1_Die drei Spinnerinnen,sie,False,"lobte ""sie"" gewaltig → bezieht sich auf das Mädchen, welches vom Prinzen gelobt wird."
+A2,1_Die drei Spinnerinnen,sie,False,"bzw. drei Basen, die dem Mädchen geholfen hatten"
+A2,1_Die drei Spinnerinnen,das,True,das bezieht sich eig auf die Frage bzw duie Bitte des Mädchen
+A2,3_Das Mädchen mit dem Holznapfe,er,False,"und Ehemann der Mutter, wird in der Geschichte jedoch sich als Ehemann betitelt"
+A2,3_Das Mädchen mit dem Holznapfe,es,True,Umstand das der Sohn einen Blick auf ihre Schönheit geworfen hatte
+A5,2_Des Kaisers neue Kleider,es,False,"Geld, Seide, Gold"
+A5,2_Des Kaisers neue Kleider,Sie,False,alternativ: die Weber
+A5,2_Des Kaisers neue Kleider,sie,False,alternativ: die Weber
+A5,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,das,False,Dinar
+A5,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,es,False,Dinar
+A5,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,ihn,False,Dinar
+A5,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,ihn,False,Dinar
+A5,1_Die drei Spinnerinnen,sie,False,Unterlippe
+A5,1_Die drei Spinnerinnen,Die,False,"alternativ: drei Basen, drei Spinnerinnen"
+A5,1_Die drei Spinnerinnen,er,True,"alternativ: ältester Sohn, Bräutigam"
+A5,1_Die drei Spinnerinnen,sie,False,"alternativ: drei Basen, drei Spinnerinnen"
+A5,1_Die drei Spinnerinnen,sie,False,"alternativ: drei Basen, drei Spinnerinnen"
+A5,1_Die drei Spinnerinnen,sie,False,"alternativ: drei Basen, drei Spinnerinnen"
+A5,1_Die drei Spinnerinnen,sie,False,"alternativ: drei Basen, drei Spinnerinnen"
+A5,3_Das Mädchen mit dem Holznapfe,es,True,"expletiv? Verarmt, Unglück?"
+A5,3_Das Mädchen mit dem Holznapfe,er,False,ältester
+A5,3_Das Mädchen mit dem Holznapfe,er,False,ältester
+A5,3_Das Mädchen mit dem Holznapfe,sie,False,"alternativ: Tochter, Mädchen"
+A5,3_Das Mädchen mit dem Holznapfe,er,False,ältester
+A5,3_Das Mädchen mit dem Holznapfe,ihr,False,"alternativ: Tochter, Mädchen"
+A5,3_Das Mädchen mit dem Holznapfe,Er,False,ältester

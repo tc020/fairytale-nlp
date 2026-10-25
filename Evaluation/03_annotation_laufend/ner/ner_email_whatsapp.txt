@@ -1,0 +1,58 @@
+############################ E-Mail ############################
+
+Subject: Deine Arbeitsmappe für die Märchen-Annotation
+
+Hi [NAME],
+
+danke, dass du mitmachst! Hier sind deine Unterlagen:
+
+• [A1]_ner_tranche1.xlsx – deine persönliche Arbeitsmappe
+• Anleitung Figurenannotation - Hier stehen die detaillierten Regeln einmal als Kurzfassung und einmal ausführlich. Bitte die Kurzfassung auf jeden Fall komplett durchlesen.
+• Die dazugehörigen Märchen – musst du nicht zwingend lesen, wenn du die Geschichte kennst, nur zum nachschlagen/reinlesen im Zweifelfall
+
+Die Aufgabe in einem Satz: In der Mappe steht jedes Wort in einer eigenen Zeile, und du trägst in der gelben Spalte ein, ob es eine Märchenfigur bezeichnet. Alles andere ist unwichtig.
+
+Zwei Beispiele:
+
+1) „Die alte Hexe sprach zu Hänsel."
+=> markieren: Hexe, Hänsel
+=> nicht markieren: die, alte, usw.
+=> Artikel und Eigenschaftswörter bleiben immer außen vor, markiert wird nur die Figur selbst.
+
+2) „Die Räuber lachten laut, doch das Volk schwieg, und die Jüngste weinte bittere Tränen."
+=> markieren: Räuber, Jüngste
+=> nicht markieren: Volk
+=> Das ist der wichtigste Punkt: Räuber und Volk handeln beide, aber nur „Räuber" ist ein Rollenname. Sammelwörter wie Volk, Leute oder Menge werden nicht markiert. Näheres dazu steht nochmals in den Regeln.
+
+Zurück bräuchte ich die 1. Mappe in etwa 1-2 Wochen. Falls du aber mehr Zeit brauchst, meld dich ruhig, das wäre kein Weltuntergang :)
+
+Eine Bitte, die wichtig ist: Bitte arbeite die Mappe allein durch, ohne ChatGPT o. Ä. Wir vergleichen später genau diese unabhängigen Einschätzungen miteinander. Wenn die Excel maschinell ausgefüllt wird, ist die Messung wertlos. Und wenn du bei einem Wort unsicher bist: einfach die beste Vermutung eintragen und ein x in die Spalte „unsicher" setzen. Das hilft mir mehr als eine geratene Antwort, die sicher aussieht.
+
+Meld dich jederzeit, wenn etwas unklar ist. Vielen Dank für deine Hilfe!! :)
+
+Beste Grüße
+Timmy
+
+
+############################ WhatsApp ############################
+
+Huhu, also wie angekündigt hier die Details zur Aufgabe. Parallel schicke ich die Email raus wo das ganze nochmal detaillierter drinnen steht:
+
+Die Aufgabe ist in zwei Teile gesplittet: Insgesamt wird es also zwei Excel-Dateien geben. Du bekommst die erste jetzt und die zweite nachdem die erste ausgefüllt wurde. Die Sätze darin sind Wort für Wort untereinander geschrieben. Also jede Zeile = ein Wort aus einem Märchen. In der gelben Spalte trägst du ein, ob es sich bei dem Wort um eine Figur handelt. Vorgabe  per Dropdown ist bereits eingestellt.
+Es gilt grundsätzlich die Frage bei jeder Figur: „Welche bestimmte Figur der Geschichte ist gemeint?" Klare Antwort → markieren. „Niemand Bestimmtes" → stehen lassen.
+
+Beispiel:
+„Die alte Hexe sprach zu Hänsel."
+→ markieren: Hexe, Hänsel
+→ nicht markieren: Die, alte, sprach, zu
+
+In der Excel wird mit dem Buchstaben "O" etwas nicht markiert. Per Default ist schon alles auf O gestellt. Du musst also nur die O's ändern bei denen es sich um eine Figur handelt. Das sieht dann beispielsweise so aus:
+
+Die → O
+alte → O
+Hexe → B-FIGUR
+sprach → O
+zu → O
+Hänsel → B-FIGUR
+
+Alles Weitere in der E-Mail und im Mailanhang. Melde dich einfach, falls etwas unklar ist. Vielen Dank für deine Hilfe! <3

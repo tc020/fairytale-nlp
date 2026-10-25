@@ -1,0 +1,177 @@
+person,id,token,strittig,kommentar
+A4,114,Nun,True,oder ADV?
+A4,159,um,False,Oder doch ADP?
+A4,186,einer,True,P12: Partitiv 'einer der ...' ohne Bezugssubstantiv -> PRON; mechanisch waere DET denkbar
+A4,191,wo,True,"Relativadverb 'wo'; Anleitung hat keine eigene Kategorie, hier ADV (kein SCONJ der Liste)"
+A4,583,schönste,False,"P3: substantivierter Superlativ ohne folgendes Substantiv -> NOUN, aber kleingeschrieben"
+A4,598,sicher,True,Modaladverb (= sicherlich); P8-Formtest wuerde ADJD ergeben
+A4,601,als,True,"Vergleichspartikel 'mehr als'; von der Anleitung nicht abgedeckt, hier SCONJ"
+A4,719,Trauern,False,Substantiviertes Verb?
+A4,725,geeignet,True,ADJ?
+A4,950,Erstaunen,False,Substantiviertes Verb?
+A4,1530,›Nimm,False,Zeichen ignorireren?
+A4,1540,essen.‹,False,Zeichen ignorieren?
+A4,1580,einer,True,"P12: Partitiv 'einer der Waechter' -> PRON, vgl. Zeile 90"
+A4,1584,einem,True,"P12: Partitiv 'einem der Kaufleute' -> PRON, vgl. Zeile 90"
+A4,1684,Dinaren,False,PROPN?
+A4,1688,begnügen.‹,False,(Satz-)Zeichen ignorieren?
+A4,1706,›Der,False,(Satz-)Zeichen ignorieren?
+A4,1710,tot?‹,False,(Satz-)Zeichen ignorieren?
+A4,1714,›Möge,False,(Satz-)Zeichen ignorieren?
+A4,1717,leben!‹,False,(Satz-)Zeichen ignorieren?
+A4,1723,›Solches,False,(Satz-)Zeichen ignorieren?
+A4,1728,Habgierigen!‹,False,(Satz-)Zeichen ignorieren?
+A4,1738,Dinare,False,PROPN?
+A4,1750,›O,False,(Satz-)Zeichen ignorieren?
+A4,1752,"Sohn,‹",False,(Satz-)Zeichen ignorieren?
+A4,1756,›woher,False,(Satz-)Zeichen ignorieren?
+A4,1757,hast,True,Vollverb 'haben' (Besitz); Anleitung: alle Formen von haben -> AUX
+A4,1759,dies?‹,False,(Satz-)Zeichen ignorieren?
+A4,1961,›So,True,(Satz-)Zeichen ignorieren?
+A4,1962,hast,True,Vollverb 'haben' (Besitz); Anleitung: alle Formen von haben -> AUX
+A4,1965,Haus?‹,False,(Satz-)Zeichen ignorieren?
+A4,1970,›Ja,True,(Satz-)Zeichen ignorieren?
+A4,1985,Gast.‹,False,(Satz-)Zeichen ignorieren?
+A4,1990,›Ich,False,(Satz-)Zeichen ignorieren?
+A4,2004,sind?‹,True,(Satz-)Zeichen ignorieren?
+A4,2009,›Du,False,(Satz-)Zeichen ignorieren?
+A4,2015,willst.‹,True,(Satz-)Zeichen ignorieren?
+A4,2025,›Wir,False,(Satz-)Zeichen ignorieren?
+A4,2031,sein‹,True,(Satz-)Zeichen ignorieren? PRON?
+A4,2049,wie,True,Indirekter Fragesatz: 'wie' als Frageadverb -> ADV (vgl. 'wie gestern' = SCONJ)
+A4,2414,hatte,False,"Unterstützt ""geschoben""?"
+A4,2434,angefüllt,False,P6: Vorgang (Agens ergaenzbar) vs. Zustand (= 'voll'); hier als Vorgang gewertet
+A4,2478,heißts,False,"Verschmelzung 'heisst' + 'es'; Tokenisierung bleibt (P15), Tag nach dem Verb"
+A4,2638,allein,True,"'allein' nicht attributiv moeglich (P8) -> ADV, obwohl praedikativ"
+A4,2671,erste,True,P3/P10: nominalisierte Ordnungszahl -> NOUN; Parallelstellen 'zweite'/'dritte' sind NUM
+A4,2988,voll,False,"P9: nachgestellt, Umstellprobe 'drei volle Kasten' moeglich -> ADJA"
+A4,3015,Indem,True,"'Indem' hier temporal-adverbial (Verbzweitstellung), nicht subjunktional"
+A4,3062,fort,True,Wiederholter Verbzusatz ohne eigenes Verb; nach P11 waere PART moeglich
+A4,3090,weit,False,Formel 'weit und breit'; nach P8 (attributiv moeglich) ADJD
+A4,3106,lange,True,Temporaladverb 'lange'; P8-Formtest wuerde ADJD ergeben
+A4,3127,ganz,True,Gradpartikel vor Adverb; P8-Formtest wuerde ADJD ergeben
+A4,3776,vorauf,True,Richtungsadverb; als Verbzusatz zu 'fliegen' (P11) waere PART moeglich
+A4,4000,eiligeres,True,"P3 wie 'nichts Gutes' -> NOUN, hier kleingeschrieben"
+A4,4006,geschenkt,False,Partizip adverbial vor Partizip ('geschenkt erhaltene') -> P2/P8 ADJD
+A4,4074,voller,False,'voller Zorn' praepositionsartig; nach P1 (flektiert vor Substantiv) ADJA
+A5,103,Sandmann,True,würde sagen das ist ein Eigenname
+A5,130,Portrait,False,bestimmte Person
+A5,144,Sandmann,True,s.o.
+A5,186,einer,True,Pronomen? Artikel?
+A5,192,allerhand,True,adjd? Num?
+A5,551,Seejungfrau,True,Eigenname? Kleine Meerjungfrau?
+A5,583,schönste,False,adja?
+A5,602,fünfzehn,False,adja?
+A5,731,keine,True,negativer Artikel
+A5,738,dieselben,False,adja?
+A5,956,keine,True,negativer Artikel
+A5,963,auch,True,s.o.
+A5,978,müsse,True,unterstützt die Aussage deshalb Hilfsverb?
+A5,991,Liebe,False,ist ja eigentlich eine Ansprache
+A5,997,Sultanin,False,bestimmte Person
+A5,1022,keine,True,negativer Artikel
+A5,1023,solchen,False,PRON?
+A5,1494,auch,True,s.o.
+A5,1530,›Nimm,False,Zeichen ignorieren
+A5,1531,das,True,"steht allein, P12"
+A5,1540,essen.‹,False,Zeichen ignorieren
+A5,1580,einer,True,"unbestimmter Artikel, könnte auch Pronomen sein"
+A5,1584,einem,True,"unbestimmter Artikel, könnte auch Pronomen sein"
+A5,1655,Inschallah,False,Weil das ja so ein Ausstoß von gesprochener Sprache ist? Wie ein Gebet?
+A5,1659,jeden,True,könnte auch DET sein?
+A5,1661,Maghrabis,True,"Unsicher wg. Eigenname, aber Bezeichnung für eine Bevölkerungsgruppe halt?"
+A5,1686,jeden,True,DET?
+A5,1688,begnügen.‹,False,Zeichen ignorieren
+A5,1693,Juden,False,gleicher Fall wie oben kein Eigenname usw.
+A5,1706,›Der,False,Zeichen ignorieren
+A5,1709,auch,True,lt. Google PART in der Schulgrammatik aber oft auch ADV
+A5,1710,tot?‹,False,Zeichen ignorieren
+A5,1712,Dschudar,False,Ist das ein Name?
+A5,1714,›Möge,False,Zeichen ignorieren
+A5,1720,Jude,False,s.o.
+A5,1723,›Solches,False,Zeichen ignorieren
+A5,1736,Dschudar,False,Name?
+A5,1750,›O,False,Zeichen ignorieren
+A5,1752,"Sohn,‹",False,Zeichen ignorieren
+A5,1756,›woher,False,Zeichen ignorieren
+A5,1759,dies?‹,False,Zeichen ignorieren
+A5,1961,›So,True,Zeichen ignorieren
+A5,1965,Haus?‹,False,Zeichen ignorieren
+A5,1970,›Ja,True,Zeichen ignorieren; INTJ?
+A5,1985,Gast.‹,False,Zeichen ignorieren
+A5,1990,›Ich,False,Zeichen ignorieren
+A5,2004,sind?‹,True,Zeichen ignorieren
+A5,2009,›Du,False,Zeichen ignorieren
+A5,2015,willst.‹,True,Zeichen ignorieren
+A5,2025,›Wir,False,Zeichen ignorieren
+A5,2028,abend,True,müsste eigentlich groß geschrieben werden
+A5,2031,sein‹,True,Zeichen ignorieren
+A5,2333,auch,True,lt. Google PART in der Schulgrammatik aber oft auch ADV
+A5,2439,Mütterchen,False,Kosename?
+A5,2461,Herr,False,spricht ja jemanden direkt an
+A5,2477,Bauer,False,bestimmte Person
+A5,2617,Königin,False,bestimmte Person
+A5,2636,Mädchen,False,bestimmte Person
+A5,2711,Mädchen,False,bestimmte Person
+A5,3018,zwölfe,True,ADJD?
+A5,3057,deren,True,PRON?
+A5,3093,kein,True,negativer Artikel
+A5,3127,ganz,True,ADV? Lt. Deutschplus.net partikel
+A5,3140,etwas,True,"beschreibt ja den Verlust, also Adjektiv? kP"
+A5,3264,Tanuki,True,bestimmte Person
+A5,3327,zu,False,Part wegen zusenden?
+A5,3344,könne,False,hilft ja auch?
+A5,3350,auch,True,lt. Google PART in der Schulgrammatik aber oft auch ADV
+A5,3364,Tanuki,True,bestimmte Person
+A5,3683,selbst,True,lt. Deutschplus.net
+A5,3769,Fasan,False,bestimmte Person
+A5,3795,Fasan,False,s.o.
+A5,3798,auch,True,s.o.
+A5,3825,keine,True,negativer Artikel
+A5,3988,Daimyo,False,bestimmte Person aber ja auch ähnlich zu König etc.
+A5,4006,geschenkt,False,"lässt sich nicht mit sehr steigern, aber ist eine Beschreibung"
+A5,4007,erhaltene,False,"lässt sich nicht mit sehr steigern, aber ist eine Beschreibung"
+A5,4022,Daimyo,False,s.o.
+A5,4040,kein,True,negativer Artikel
+A5,4043,keine,True,negativer Artikel
+A5,4056,Daimyo,False,s.o.
+A5,4106,allen,True,ADV?
+A5,4123,möchten,False,möchte als Form von wollen?
+A6,791,Herr,True,"hier als Anrede, vergleichbar zu einem Namen, genutzt"
+A6,973,woraus,True,ADP ?
+A6,992,Tochter,False,"hier als Anrede, vergleichbar zu einem Namen, genutzt: PROPN"
+A6,1480,von,False,PART ?
+A6,1530,›Nimm,False,>
+A6,1540,essen.‹,False,.  <
+A6,1661,Maghrabis,True,ich kenne das Wort nicht
+A6,1688,begnügen.‹,False,.  <
+A6,1706,›Der,False,>
+A6,1710,tot?‹,False,?  <
+A6,1714,›Möge,False,>
+A6,1717,leben!‹,False,!   <
+A6,1723,›Solches,False,>
+A6,1728,Habgierigen!‹,False,!   <
+A6,1750,›O,False,>
+A6,1752,"Sohn,‹",False,",   <"
+A6,1759,dies?‹,False,?  <
+A6,1961,›So,True,>
+A6,1965,Haus?‹,False,<
+A6,1970,›Ja,True,>
+A6,1978,Beherrscher,False,die drei zusammen könnten auch als Eigenname interpretiert werden
+A6,1979,der,False,die drei zusammen könnten auch als Eigenname interpretiert werden
+A6,1980,Gläubigen,False,die drei zusammen könnten auch als Eigenname interpretiert werden
+A6,1985,Gast.‹,False,.  <
+A6,1990,›Ich,False,>
+A6,1991,allein,True,ohne Kontext schwierig (z.B. ich bin allein vs. Ich als einziger)
+A6,2004,sind?‹,True,?  <
+A6,2009,›Du,False,>
+A6,2015,willst.‹,True,<
+A6,2025,›Wir,False,>
+A6,2031,sein‹,True,<
+A6,2439,Mütterchen,False,"hier als Anrede, vergleichbar zu einem Namen, genutzt: PROPN"
+A6,2461,Herr,False,"hier als Anrede, vergleichbar zu einem Namen, genutzt: PROPN"
+A6,2478,heißts,False,fehlt hier ein Satzzeichen?
+A6,2622,beim,False,eigentlich 2 Wörter: bei dem
+A6,3264,Tanuki,True,ich kenne das Wort nicht
+A6,3364,Tanuki,True,ich kenne das Wort nicht
+A6,3780,Dank,True,"NOUN, aber hier im Kontext von „wegen“"

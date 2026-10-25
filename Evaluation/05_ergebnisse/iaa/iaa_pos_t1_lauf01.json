@@ -1,0 +1,97 @@
+{
+  "lauf": 1,
+  "etikett": "vor Adjudikation",
+  "richtlinie_version": "1.18",
+  "tranche": 1,
+  "zeitpunkt": "2026-09-13T13:48",
+  "ebene": "pos",
+  "bearbeitende": [
+    "A4",
+    "A5",
+    "A6"
+  ],
+  "n_token_gesamt": 1794,
+  "n_token_gemessen": 1794,
+  "luecken": {
+    "A4": 0,
+    "A5": 0,
+    "A6": 0
+  },
+  "hauptwert_zusammengefasst": {
+    "n": 1794,
+    "prozent": 0.9070977331846879,
+    "fleiss_kappa": 0.8964146935160582,
+    "beobachtet": 0.9070977331846879,
+    "erwartet": 0.10313277076885238,
+    "einstimmig": 1554,
+    "uneinig": 240
+  },
+  "fein_mit_adja_adjd": {
+    "n": 1794,
+    "prozent": 0.9050538833147509,
+    "fleiss_kappa": 0.8943066522196373,
+    "beobachtet": 0.9050538833147509,
+    "erwartet": 0.10168313636395648,
+    "einstimmig": 1549,
+    "uneinig": 245
+  },
+  "adjektiv_feindifferenzierung": {
+    "n_kandidaten": 122,
+    "n_einig_dass_adjektiv": 90,
+    "prozent": 0.9629629629629629,
+    "fleiss_kappa": 0.9017181129877693,
+    "wilson_95": [
+      0.901358253627863,
+      0.986662979315025
+    ],
+    "uneinig": 5,
+    "paarweise": {
+      "A4-A5": 0.9777777777777777,
+      "A4-A6": 0.9444444444444444,
+      "A5-A6": 0.9666666666666667
+    },
+    "abweichungsindex": {
+      "A4": 0.961111111111111,
+      "A5": 0.9722222222222222,
+      "A6": 0.9555555555555555
+    }
+  },
+  "paarweise": {
+    "A4-A5": {
+      "prozent": 0.939799331103679,
+      "fleiss_kappa": 0.9329166766208635,
+      "uneinig": 108
+    },
+    "A4-A6": {
+      "prozent": 0.8968784838350056,
+      "fleiss_kappa": 0.8849075192436334,
+      "uneinig": 185
+    },
+    "A5-A6": {
+      "prozent": 0.8846153846153846,
+      "fleiss_kappa": 0.8713414654215333,
+      "uneinig": 207
+    }
+  },
+  "abweichungsindex": {
+    "A4": 0.9183389074693422,
+    "A5": 0.9122073578595318,
+    "A6": 0.890746934225195
+  },
+  "quote": 0.9070977331846897,
+  "cluster_bootstrap_95": [
+    0.8930878738939041,
+    0.9196196879236249
+  ],
+  "wilson_95": [
+    0.8927806754563957,
+    0.919675030689611
+  ],
+  "nach_sammlung": {
+    "Andersen": 0.9011680143755615,
+    "Arabisch": 0.8939051918735892,
+    "Grimm": 0.9197684036393714,
+    "Japanisch": 0.9121894858463314
+  },
+  "divergenzen": 240
+}

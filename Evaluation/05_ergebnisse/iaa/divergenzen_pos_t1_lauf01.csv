@@ -1,0 +1,246 @@
+lage,stimmen,id,token,erzaehlung,sammlung,A4,A5,A6,mehrheit,markiert,entscheidung,begruendung
+Mehrheit,2,103,Sandmann,2_Das Märchen vom Sandmann,Andersen,PROPN,PROPN,NOUN,PROPN,True,PROPN,Eigenname
+Mehrheit,2,114,Nun,2_Das Märchen vom Sandmann,Andersen,INTJ,ADV,INTJ,INTJ,True,INTJ,Ausruf am Redebeginn
+Alle uneins,1,118,doch,2_Das Märchen vom Sandmann,Andersen,ADV,CCONJ,PART,,True,ADV,Modalpartikel
+Mehrheit,2,119,wohl,2_Das Märchen vom Sandmann,Andersen,ADV,PART,PART,PART,True,ADV,Modalpartikel
+Mehrheit,2,120,seine,2_Das Märchen vom Sandmann,Andersen,DET,DET,PRON,DET,False,DET,vor Substantiv
+Mehrheit,2,122,noch,2_Das Märchen vom Sandmann,Andersen,ADV,ADV,PART,ADV,True,ADV,Adverb
+Mehrheit,2,133,da,2_Das Märchen vom Sandmann,Andersen,ADV,SCONJ,ADV,ADV,False,ADV,Verbzweitstellung
+Mehrheit,2,144,Sandmann,2_Das Märchen vom Sandmann,Andersen,PROPN,PROPN,NOUN,PROPN,True,PROPN,Eigenname
+Mehrheit,2,152,gleich,2_Das Märchen vom Sandmann,Andersen,ADV,ADV,PART,ADV,False,ADV,temporal 'sofort'
+Mehrheit,2,170,war,2_Der Engel,Andersen,VERB,AUX,VERB,VERB,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Alle uneins,1,186,einer,2_Der Engel,Andersen,PRON,NUM,DET,,True,PRON,partitiv 'einer der'
+Mehrheit,2,191,wo,2_Der Engel,Andersen,ADV,ADV,PRON,ADV,True,ADV,Relativadverb
+Mehrheit,2,192,allerhand,2_Der Engel,Andersen,DET,ADJA,ADJA,ADJA,True,DET,Indefinitum vor Substantiv (P12)
+Mehrheit,2,196,denn,2_Der Engel,Andersen,CCONJ,CCONJ,SCONJ,CCONJ,False,CCONJ,"Verbzweitstellung, koordinierend"
+Mehrheit,2,200,gewesen,2_Der Engel,Andersen,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,217,der,2_Der Engel,Andersen,DET,DET,PRON,DET,False,PRON,Relativpronomen (P12)
+Mehrheit,2,230,deshalb,2_Der Engel,Andersen,ADV,ADV,SCONJ,ADV,True,ADV,Adverb
+Mehrheit,2,240,Die,2_Der Engel,Andersen,DET,DET,PRON,DET,False,PRON,Demonstrativpronomen (P12)
+Mehrheit,2,480,hat,2_Des Kaisers neue Kleider,Andersen,VERB,AUX,VERB,VERB,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,481,ja,2_Des Kaisers neue Kleider,Andersen,ADV,PART,PART,PART,False,ADV,Modalpartikel
+Mehrheit,2,482,gar,2_Des Kaisers neue Kleider,Andersen,ADV,ADV,PART,ADV,False,ADV,Gradpartikel
+Mehrheit,2,483,nichts,2_Des Kaisers neue Kleider,Andersen,PRON,PRON,PART,PRON,False,PRON,Indefinitpronomen
+Mehrheit,2,507,eine,2_Des Kaisers neue Kleider,Andersen,PRON,PRON,NOUN,PRON,False,PRON,substituierend
+Mehrheit,2,510,andern,2_Des Kaisers neue Kleider,Andersen,PRON,PRON,NOUN,PRON,False,PRON,substituierend
+Mehrheit,2,522,hat,2_Des Kaisers neue Kleider,Andersen,VERB,AUX,VERB,VERB,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,523,ja,2_Des Kaisers neue Kleider,Andersen,ADV,PART,PART,PART,False,ADV,Modalpartikel
+Mehrheit,2,524,gar,2_Des Kaisers neue Kleider,Andersen,ADV,ADV,PART,ADV,False,ADV,Gradpartikel
+Mehrheit,2,525,nichts,2_Des Kaisers neue Kleider,Andersen,PRON,PRON,PART,PRON,False,PRON,Indefinitpronomen
+Alle uneins,1,542,aller,2_Die kleine Seejungfrau,Andersen,DET,ADJA,PRON,,False,DET,Indefinitum vor Substantiv (P12)
+Mehrheit,2,551,Seejungfrau,2_Die kleine Seejungfrau,Andersen,NOUN,PROPN,NOUN,NOUN,True,NOUN,Gattungsbezeichnung mit Artikel
+Mehrheit,2,569,durch,2_Die kleine Seejungfrau,Andersen,ADP,PART,ADP,ADP,False,ADP,Praeposition mit Nominalphrase
+Mehrheit,2,576,viele,2_Die kleine Seejungfrau,Andersen,DET,ADJA,ADJA,ADJA,True,DET,Quantor vor Substantiv (P12)
+Mehrheit,2,584,war,2_Die kleine Seejungfrau,Andersen,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Alle uneins,1,585,doch,2_Die kleine Seejungfrau,Andersen,ADV,CCONJ,PART,,False,ADV,Modalpartikel
+Mehrheit,2,597,war,2_Die kleine Seejungfrau,Andersen,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Alle uneins,1,598,sicher,2_Die kleine Seejungfrau,Andersen,ADV,ADJD,ADJA,,True,ADV,Satzadverb 'gewiss'
+Mehrheit,2,600,mehr,2_Die kleine Seejungfrau,Andersen,ADV,ADV,ADJA,ADV,False,ADV,Gradadverb
+Mehrheit,2,601,als,2_Die kleine Seejungfrau,Andersen,SCONJ,SCONJ,PART,SCONJ,True,SCONJ,Vergleichspartikel
+Mehrheit,2,724,recht,2_Die roten Schuhe,Andersen,ADV,ADV,ADJD,ADV,False,ADV,Gradadverb 'ziemlich'
+Mehrheit,2,725,geeignet,2_Die roten Schuhe,Andersen,ADJD,ADJD,VERB,ADJD,True,ADJD,"Eigenschaft, steigerbar (P6)"
+Mehrheit,2,729,hatte,2_Die roten Schuhe,Andersen,VERB,AUX,VERB,VERB,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,730,ja,2_Die roten Schuhe,Andersen,ADV,PART,PART,PART,False,ADV,Modalpartikel
+Mehrheit,2,731,keine,2_Die roten Schuhe,Andersen,DET,DET,PRON,DET,True,DET,vor substantiviertem Wort
+Mehrheit,2,732,andern,2_Die roten Schuhe,Andersen,DET,PRON,PRON,PRON,False,PRON,substituierend
+Mehrheit,2,739,über,2_Die roten Schuhe,Andersen,ADP,PART,ADP,ADP,False,ADP,Praeposition
+Mehrheit,2,750,her,2_Die roten Schuhe,Andersen,ADV,PART,PART,PART,False,PART,Verbzusatz 'herschreiten' (P11)
+Mehrheit,2,752,Da,2_Die roten Schuhe,Andersen,ADV,SCONJ,ADV,ADV,False,ADV,Verbzweitstellung
+Mehrheit,2,760,angefahren,2_Die roten Schuhe,Andersen,VERB,VERB,AUX,VERB,False,VERB,Vollverb; Anleitung Abschnitt 3
+Mehrheit,2,791,Herr,2_Die roten Schuhe,Andersen,NOUN,NOUN,PROPN,NOUN,True,NOUN,"Anrede, Gattungsnomen"
+Mehrheit,2,799,dann,2_Die roten Schuhe,Andersen,ADV,ADV,SCONJ,ADV,False,ADV,Verbzweitstellung
+Mehrheit,2,800,will,2_Die roten Schuhe,Andersen,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,801,ich,2_Die roten Schuhe,Andersen,PRON,AUX,PRON,PRON,False,PRON,Personalpronomen
+Mehrheit,2,805,sorgen,2_Die roten Schuhe,Andersen,VERB,VERB,AUX,VERB,False,VERB,Vollverb; Anleitung Abschnitt 3
+Alle uneins,1,946,wie,0_Alaeddin und die Wunderlampe,Arabisch,ADV,SCONJ,PART,,False,ADV,"Exklamativ, Verbzweitstellung"
+Mehrheit,2,947,groß,0_Alaeddin und die Wunderlampe,Arabisch,ADJD,ADJD,ADJA,ADJD,False,ADJD,"endungslose Grundform, kein Substantiv folgt (P1/P2)"
+Mehrheit,2,948,war,0_Alaeddin und die Wunderlampe,Arabisch,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,949,ihr,0_Alaeddin und die Wunderlampe,Arabisch,DET,DET,PRON,DET,False,DET,vor Substantiv
+Alle uneins,1,955,nur,0_Alaeddin und die Wunderlampe,Arabisch,ADV,CCONJ,PART,,True,ADV,Gradpartikel
+Mehrheit,2,956,keine,0_Alaeddin und die Wunderlampe,Arabisch,DET,DET,PART,DET,True,DET,Artikelwort vor Substantiv (P12)
+Mehrheit,2,963,auch,0_Alaeddin und die Wunderlampe,Arabisch,ADV,PART,PART,PART,True,ADV,Konjunktionaladverb
+Mehrheit,2,973,woraus,0_Alaeddin und die Wunderlampe,Arabisch,ADV,ADV,PRON,ADV,True,ADV,Pronominaladverb
+Mehrheit,2,978,müsse,0_Alaeddin und die Wunderlampe,Arabisch,AUX,AUX,VERB,AUX,True,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,981,begegnet,0_Alaeddin und die Wunderlampe,Arabisch,VERB,VERB,AUX,VERB,False,VERB,Vollverb; Anleitung Abschnitt 3
+Mehrheit,2,982,sein,0_Alaeddin und die Wunderlampe,Arabisch,PRON,AUX,AUX,AUX,False,AUX,Form von sein; Anleitung Abschnitt 3
+Mehrheit,2,984,das,0_Alaeddin und die Wunderlampe,Arabisch,DET,DET,PRON,DET,False,PRON,Relativpronomen (P12)
+Alle uneins,1,1005,denn,0_Alaeddin und die Wunderlampe,Arabisch,ADV,CCONJ,PART,,False,ADV,Modalpartikel
+Mehrheit,2,1010,meine,0_Alaeddin und die Wunderlampe,Arabisch,DET,DET,PRON,DET,False,DET,vor Substantiv
+Alle uneins,1,1021,doch,0_Alaeddin und die Wunderlampe,Arabisch,ADV,CCONJ,PART,,False,ADV,Modalpartikel
+Mehrheit,2,1022,keine,0_Alaeddin und die Wunderlampe,Arabisch,DET,DET,PART,DET,True,DET,Artikelwort (P12)
+Mehrheit,2,1026,machen,0_Alaeddin und die Wunderlampe,Arabisch,VERB,VERB,AUX,VERB,False,VERB,Vollverb; Anleitung Abschnitt 3
+Mehrheit,2,1439,wie,0_Die Abenteuer Sindbads des Seefahrers,Arabisch,SCONJ,SCONJ,PART,SCONJ,True,SCONJ,vergleichend
+Mehrheit,2,1462,Bagdad,0_Die Abenteuer Sindbads des Seefahrers,Arabisch,PROPN,NOUN,PROPN,PROPN,False,PROPN,Ortsname
+Mehrheit,2,1464,Bassorah,0_Die Abenteuer Sindbads des Seefahrers,Arabisch,PROPN,NOUN,PROPN,PROPN,False,PROPN,Ortsname
+Mehrheit,2,1473,das,0_Die Abenteuer Sindbads des Seefahrers,Arabisch,DET,DET,PRON,DET,False,PRON,Relativpronomen (P12)
+Mehrheit,2,1478,voll,0_Die Abenteuer Sindbads des Seefahrers,Arabisch,ADJD,ADJD,ADV,ADJD,False,ADJD,attributiv moeglich (P8)
+Mehrheit,2,1479,war,0_Die Abenteuer Sindbads des Seefahrers,Arabisch,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,1485,die,0_Die Abenteuer Sindbads des Seefahrers,Arabisch,DET,DET,PRON,DET,False,PRON,Relativpronomen (P12)
+Mehrheit,2,1490,hatten,0_Die Abenteuer Sindbads des Seefahrers,Arabisch,VERB,AUX,VERB,VERB,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,1492,darin,0_Die Abenteuer Sindbads des Seefahrers,Arabisch,ADV,ADV,ADP,ADV,False,ADV,Pronominaladverb
+Mehrheit,2,1494,auch,0_Die Abenteuer Sindbads des Seefahrers,Arabisch,ADV,PART,PART,PART,True,ADV,Modalpartikel
+Mehrheit,2,1510,Bassorah,0_Die Abenteuer Sindbads des Seefahrers,Arabisch,PROPN,NOUN,PROPN,PROPN,False,PROPN,Ortsname
+Mehrheit,2,1512,aller,0_Die Abenteuer Sindbads des Seefahrers,Arabisch,DET,ADJA,ADJA,ADJA,False,DET,Indefinitum vor Substantiv (P12)
+Mehrheit,2,1531,das,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,Arabisch,DET,DET,PRON,DET,True,PRON,Demonstrativpronomen (P12)
+Mehrheit,2,1536,bringe,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,Arabisch,VERB,VERB,AUX,VERB,False,VERB,Vollverb; Anleitung Abschnitt 3
+Mehrheit,2,1538,etwas,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,Arabisch,PRON,PRON,NOUN,PRON,False,PRON,Indefinitpronomen
+Mehrheit,2,1563,also,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,Arabisch,ADV,ADV,PART,ADV,False,ADV,Adverb
+Mehrheit,2,1577,aber,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,Arabisch,CCONJ,CCONJ,PART,CCONJ,False,CCONJ,koordinierend
+Mehrheit,2,1580,einer,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,Arabisch,PRON,DET,DET,DET,True,PRON,partitiv 'einer der'
+Mehrheit,2,1584,einem,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,Arabisch,PRON,DET,DET,DET,True,PRON,partitiv 'einem der'
+Mehrheit,2,1588,Bagdad,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,Arabisch,PROPN,NOUN,NOUN,NOUN,False,PROPN,Ortsname
+Mehrheit,2,1590,dem,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,Arabisch,DET,DET,PRON,DET,False,PRON,Relativpronomen (P12)
+Mehrheit,2,1592,dieselbe,0_Die Geschichte von Ali dem Kairenser und dem spukenden Hause in Bagdad,Arabisch,DET,PRON,DET,DET,False,DET,vor Substantiv
+Alle uneins,1,1658,doch,0_Dschudar und seine Brüder,Arabisch,ADV,CCONJ,PART,,False,ADV,Modalpartikel
+Mehrheit,2,1659,jeden,0_Dschudar und seine Brüder,Arabisch,DET,PRON,DET,DET,True,DET,vor Substantiv
+Mehrheit,2,1661,Maghrabis,0_Dschudar und seine Brüder,Arabisch,PROPN,NOUN,NOUN,NOUN,True,NOUN,"Volksbezeichnung, Gattung"
+Mehrheit,2,1679,aber,0_Dschudar und seine Brüder,Arabisch,CCONJ,CCONJ,PART,CCONJ,False,CCONJ,koordinierend
+Mehrheit,2,1680,will,0_Dschudar und seine Brüder,Arabisch,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,1686,jeden,0_Dschudar und seine Brüder,Arabisch,DET,PRON,DET,DET,True,DET,vor Substantiv
+Mehrheit,2,1699,der,0_Dschudar und seine Brüder,Arabisch,DET,DET,PRON,DET,False,PRON,Demonstrativpronomen (P12)
+Mehrheit,2,1707,andere,0_Dschudar und seine Brüder,Arabisch,PRON,PRON,NOUN,PRON,False,PRON,substituierend
+Mehrheit,2,1708,ist,0_Dschudar und seine Brüder,Arabisch,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,1709,auch,0_Dschudar und seine Brüder,Arabisch,ADV,PART,ADV,ADV,True,ADV,Adverb
+Mehrheit,2,1715,dein,0_Dschudar und seine Brüder,Arabisch,DET,DET,PRON,DET,False,DET,Possessivum vor Substantiv
+Mehrheit,2,1724,ist,0_Dschudar und seine Brüder,Arabisch,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,1732,das,0_Dschudar und seine Brüder,Arabisch,DET,DET,PRON,DET,False,DET,Artikel
+Mehrheit,2,1757,hast,0_Dschudar und seine Brüder,Arabisch,AUX,AUX,VERB,AUX,True,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,1961,›So,0_Khalifah der Fischer von Bagdad,Arabisch,ADV,PART,ADV,ADV,True,ADV,Adverb 'so'
+Mehrheit,2,1962,hast,0_Khalifah der Fischer von Bagdad,Arabisch,AUX,AUX,VERB,AUX,True,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,1967,Khalifah,0_Khalifah der Fischer von Bagdad,Arabisch,NOUN,PROPN,PROPN,PROPN,False,PROPN,Eigenname
+Mehrheit,2,1970,›Ja,0_Khalifah der Fischer von Bagdad,Arabisch,INTJ,PART,INTJ,INTJ,True,INTJ,Antwortpartikel
+Mehrheit,2,1972,wahrlich,0_Khalifah der Fischer von Bagdad,Arabisch,ADV,ADV,INTJ,ADV,False,ADV,Satzadverb
+Mehrheit,2,1982,bist,0_Khalifah der Fischer von Bagdad,Arabisch,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,1991,allein,0_Khalifah der Fischer von Bagdad,Arabisch,ADV,ADJD,ADJD,ADJD,True,ADV,nicht attributiv (P8)
+Mehrheit,2,1994,Khalifah,0_Khalifah der Fischer von Bagdad,Arabisch,NOUN,PROPN,PROPN,PROPN,False,PROPN,Eigenname
+Mehrheit,2,2001,die,0_Khalifah der Fischer von Bagdad,Arabisch,DET,DET,PRON,DET,False,PRON,Relativpronomen (P12)
+Mehrheit,2,2004,sind?‹,0_Khalifah der Fischer von Bagdad,Arabisch,AUX,AUX,VERB,AUX,True,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,2013,die,0_Khalifah der Fischer von Bagdad,Arabisch,DET,DET,PRON,DET,False,PRON,Relativpronomen (P12)
+Mehrheit,2,2015,willst.‹,0_Khalifah der Fischer von Bagdad,Arabisch,AUX,AUX,VERB,AUX,True,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,2016,Da,0_Khalifah der Fischer von Bagdad,Arabisch,ADV,SCONJ,ADV,ADV,False,ADV,Verbzweitstellung
+Mehrheit,2,2026,wollen,0_Khalifah der Fischer von Bagdad,Arabisch,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,2028,abend,0_Khalifah der Fischer von Bagdad,Arabisch,ADV,NOUN,NOUN,NOUN,True,NOUN,Substantiv in 'heute abend'
+Mehrheit,2,2031,sein‹,0_Khalifah der Fischer von Bagdad,Arabisch,VERB,AUX,AUX,AUX,True,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,2036,heim,1_Der Eisenhans,Grimm,PART,ADV,PART,PART,False,PART,Verbzusatz 'heimkommen' (P11)
+Mehrheit,2,2049,wie,1_Der Eisenhans,Grimm,ADV,SCONJ,ADV,ADV,True,ADV,Interrogativadverb im indirekten Fragesatz
+Mehrheit,2,2050,das,1_Der Eisenhans,Grimm,DET,DET,PRON,DET,False,PRON,Demonstrativpronomen (P12)
+Mehrheit,2,2056,nichts,1_Der Eisenhans,Grimm,PRON,PRON,PART,PRON,False,PRON,Indefinitpronomen
+Mehrheit,2,2057,davon,1_Der Eisenhans,Grimm,ADV,ADV,PRON,ADV,False,ADV,Pronominaladverb
+Mehrheit,2,2065,war,1_Der Eisenhans,Grimm,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,2066,weg,1_Der Eisenhans,Grimm,ADV,ADJD,ADV,ADV,False,ADV,nicht attributiv (P8)
+Mehrheit,2,2083,die,1_Der Eisenhans,Grimm,DET,DET,PRON,DET,False,PRON,Relativpronomen (P12)
+Mehrheit,2,2326,Da,1_Der Räuberbräutigam,Grimm,ADV,SCONJ,ADV,ADV,False,ADV,Verbzweitstellung
+Mehrheit,2,2329,anderer,1_Der Räuberbräutigam,Grimm,PRON,PRON,NOUN,PRON,False,PRON,substituierend
+Mehrheit,2,2333,auch,1_Der Räuberbräutigam,Grimm,ADV,PART,PART,PART,True,ADV,Modalpartikel
+Mehrheit,2,2366,Da,1_Der Räuberbräutigam,Grimm,ADV,SCONJ,ADV,ADV,False,ADV,Verbzweitstellung
+Mehrheit,2,2373,hat,1_Der Räuberbräutigam,Grimm,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Alle uneins,1,2374,recht,1_Der Räuberbräutigam,Grimm,VERB,ADJD,PART,,False,ADV,Teil von 'recht haben'
+Mehrheit,2,2423,daneben,1_Die Gänsehirtin am Brunnen,Grimm,ADV,ADV,ADP,ADV,False,ADV,Pronominaladverb
+Mehrheit,2,2428,die,1_Die Gänsehirtin am Brunnen,Grimm,DET,DET,PRON,DET,False,PRON,Relativpronomen (P12)
+Mehrheit,2,2438,Aber,1_Die Gänsehirtin am Brunnen,Grimm,CCONJ,CCONJ,INTJ,CCONJ,False,CCONJ,koordinierend
+Mehrheit,2,2447,kannst,1_Die Gänsehirtin am Brunnen,Grimm,AUX,VERB,AUX,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,2449,das,1_Die Gänsehirtin am Brunnen,Grimm,DET,DET,PRON,DET,True,DET,attribuierend vor 'alles'
+Mehrheit,2,2486,ist,1_Die Gänsehirtin am Brunnen,Grimm,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,2614,ließ,1_Die drei Spinnerinnen,Grimm,VERB,VERB,PART,VERB,False,VERB,finites Vollverb
+Mehrheit,2,2627,du,1_Die drei Spinnerinnen,Grimm,PRON,PRON,DET,PRON,False,PRON,Personalpronomen
+Mehrheit,2,2634,Als,1_Die drei Spinnerinnen,Grimm,SCONJ,SCONJ,CCONJ,SCONJ,False,SCONJ,Verbletztstellung
+Mehrheit,2,2638,allein,1_Die drei Spinnerinnen,Grimm,ADV,ADJD,ADJD,ADJD,True,ADV,nicht attributiv (P8)
+Mehrheit,2,2639,war,1_Die drei Spinnerinnen,Grimm,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,2655,seiner,1_Die drei Spinnerinnen,Grimm,DET,DET,PRON,DET,False,DET,Possessivum vor Substantiv
+Mehrheit,2,2657,vor,1_Die drei Spinnerinnen,Grimm,ADP,ADP,ADV,ADP,False,ADP,Praeposition
+Mehrheit,2,2661,Da,1_Die drei Spinnerinnen,Grimm,ADV,SCONJ,ADV,ADV,False,ADV,Verbzweitstellung
+Mehrheit,2,2666,herkommen,1_Die drei Spinnerinnen,Grimm,VERB,VERB,NOUN,VERB,False,VERB,Infinitiv
+Mehrheit,2,2669,hatte,1_Die drei Spinnerinnen,Grimm,VERB,AUX,VERB,VERB,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,2671,erste,1_Die drei Spinnerinnen,Grimm,NOUN,ADJA,NOUN,NOUN,True,NOUN,nominalisiertes Ordinale (P3)
+Alle uneins,1,2677,zweite,1_Die drei Spinnerinnen,Grimm,NUM,ADJA,NOUN,,False,NOUN,nominalisiertes Ordinale (P3)
+Mehrheit,2,2678,hatte,1_Die drei Spinnerinnen,Grimm,VERB,AUX,VERB,VERB,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,2686,über,1_Die drei Spinnerinnen,Grimm,ADP,ADP,ADV,ADP,False,ADP,Praeposition
+Alle uneins,1,2693,dritte,1_Die drei Spinnerinnen,Grimm,NUM,ADJA,NOUN,,False,NOUN,nominalisiertes Ordinale (P3)
+Mehrheit,2,2694,hatte,1_Die drei Spinnerinnen,Grimm,VERB,AUX,VERB,VERB,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,2699,Die,1_Die drei Spinnerinnen,Grimm,DET,DET,PRON,DET,False,PRON,Demonstrativpronomen (P12)
+Mehrheit,2,2700,blieben,1_Die drei Spinnerinnen,Grimm,VERB,VERB,PART,VERB,False,VERB,finites Vollverb
+Mehrheit,2,2713,was,1_Die drei Spinnerinnen,Grimm,PRON,ADV,PRON,PRON,False,PRON,Interrogativpronomen
+Mehrheit,2,2999,ist,"1_Märchen von einem, der auszog das Fürchten zu lernen",Grimm,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Alle uneins,1,3006,andere,"1_Märchen von einem, der auszog das Fürchten zu lernen",Grimm,PRON,ADJA,NOUN,,False,PRON,substituierend
+Alle uneins,1,3011,dritte,"1_Märchen von einem, der auszog das Fürchten zu lernen",Grimm,NUM,ADJA,NOUN,,False,NOUN,nominalisiertes Ordinale (P3)
+Mehrheit,2,3015,Indem,"1_Märchen von einem, der auszog das Fürchten zu lernen",Grimm,ADV,SCONJ,ADV,ADV,True,ADV,"'indem' hier temporal, Verbzweitstellung"
+Mehrheit,2,3018,zwölfe,"1_Märchen von einem, der auszog das Fürchten zu lernen",Grimm,NUM,NUM,NOUN,NUM,True,NUM,Kardinalzahl (P10)
+Mehrheit,2,3025,also,"1_Märchen von einem, der auszog das Fürchten zu lernen",Grimm,ADV,ADV,SCONJ,ADV,False,ADV,Teil von 'also dass'
+Mehrheit,2,3027,der,"1_Märchen von einem, der auszog das Fürchten zu lernen",Grimm,DET,DET,ADV,DET,False,DET,Artikel vor Substantiv
+Mehrheit,2,3037,unerträglich,3_Das Mädchen mit dem Holznapfe,Japanisch,ADJD,ADJD,ADV,ADJD,False,ADJD,attributiv moeglich (P8)
+Mehrheit,2,3038,war,3_Das Mädchen mit dem Holznapfe,Japanisch,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,3042,traurig,3_Das Mädchen mit dem Holznapfe,Japanisch,ADJD,ADJA,ADJA,ADJA,False,ADJD,"endungslose Grundform, kein Substantiv folgt (P1/P2)"
+Mehrheit,2,3056,aus,3_Das Mädchen mit dem Holznapfe,Japanisch,ADP,PART,ADP,ADP,False,ADP,Praeposition
+Mehrheit,2,3057,deren,3_Das Mädchen mit dem Holznapfe,Japanisch,DET,DET,PRON,DET,True,DET,vor Substantiv
+Mehrheit,2,3062,fort,3_Das Mädchen mit dem Holznapfe,Japanisch,ADV,ADV,PART,ADV,True,ADV,"Adverb, kein Verbzusatz"
+Mehrheit,2,3072,",",3_Das Mädchen mit dem Holznapfe,Japanisch,PUNCT,NOUN,PUNCT,PUNCT,False,PUNCT,Satzzeichen (P13)
+Mehrheit,2,3073,das,3_Das Mädchen mit dem Holznapfe,Japanisch,DET,DET,PRON,DET,False,PRON,Relativpronomen (P12)
+Mehrheit,2,3077,war,3_Das Mädchen mit dem Holznapfe,Japanisch,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,3083,schön,3_Das Mädchen mit dem Holznapfe,Japanisch,ADJD,ADJD,ADJA,ADJD,False,ADJD,"endungslose Grundform, kein Substantiv folgt (P1/P2)"
+Mehrheit,2,3093,kein,3_Das Mädchen mit dem Holznapfe,Japanisch,DET,DET,PART,DET,True,DET,Artikelwort (P12)
+Mehrheit,2,3097,finden,3_Das Mädchen mit dem Holznapfe,Japanisch,VERB,VERB,NOUN,VERB,False,VERB,Infinitiv
+Mehrheit,2,3106,lange,3_Das Mädchen mit dem Holznapfe,Japanisch,ADV,ADJD,ADV,ADV,True,ADJD,attributiv moeglich (P8)
+Mehrheit,2,3111,denn,3_Das Mädchen mit dem Holznapfe,Japanisch,CCONJ,CCONJ,SCONJ,CCONJ,False,CCONJ,"Verbzweitstellung, koordinierend"
+Mehrheit,2,3114,sich,3_Das Mädchen mit dem Holznapfe,Japanisch,PRON,PRON,NOUN,PRON,False,PRON,Reflexivpronomen
+Mehrheit,2,3120,da,3_Das Mädchen mit dem Holznapfe,Japanisch,ADV,SCONJ,ADV,ADV,False,ADV,Verbzweitstellung
+Mehrheit,2,3121,war,3_Das Mädchen mit dem Holznapfe,Japanisch,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Alle uneins,1,3127,ganz,3_Das Mädchen mit dem Holznapfe,Japanisch,ADV,PART,ADJD,,True,ADV,Gradadverb
+Alle uneins,1,3128,allein,3_Das Mädchen mit dem Holznapfe,Japanisch,ADV,ADJD,PART,,False,ADV,nicht attributiv (P8)
+Mehrheit,2,3133,um,3_Das Mädchen mit dem Holznapfe,Japanisch,ADP,SCONJ,ADP,ADP,False,ADP,Praeposition
+Mehrheit,2,3136,ihres,3_Das Mädchen mit dem Holznapfe,Japanisch,DET,DET,PRON,DET,False,DET,vor Substantiv
+Mehrheit,2,3140,etwas,3_Das Mädchen mit dem Holznapfe,Japanisch,ADV,ADV,PRON,ADV,True,ADV,Gradadverb 'ein wenig'
+Mehrheit,2,3144,konnte,3_Das Mädchen mit dem Holznapfe,Japanisch,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,3149,doch,3_Das Mädchen mit dem Holznapfe,Japanisch,ADV,CCONJ,ADV,ADV,False,ADV,Modalpartikel
+Mehrheit,2,3151,mehr,3_Das Mädchen mit dem Holznapfe,Japanisch,ADV,ADV,PART,ADV,True,ADV,Adverb
+Mehrheit,2,3152,so,3_Das Mädchen mit dem Holznapfe,Japanisch,ADV,ADV,PART,ADV,True,ADV,Gradadverb
+Alle uneins,1,3153,recht,3_Das Mädchen mit dem Holznapfe,Japanisch,ADV,ADJD,PART,,True,ADV,Gradadverb
+Mehrheit,2,3158,ihres,3_Das Mädchen mit dem Holznapfe,Japanisch,DET,DET,PRON,DET,False,DET,vor Substantiv
+Mehrheit,2,3261,lange,3_Der Wunderkessel,Japanisch,ADV,ADJD,ADV,ADV,False,ADJD,attributiv moeglich (P8)
+Mehrheit,2,3264,Tanuki,3_Der Wunderkessel,Japanisch,NOUN,NOUN,PROPN,NOUN,True,NOUN,Gattungsbezeichnung mit Artikel
+Mehrheit,2,3267,bis,3_Der Wunderkessel,Japanisch,SCONJ,ADP,ADP,ADP,False,SCONJ,Verbletztstellung
+Mehrheit,2,3271,habhaft,3_Der Wunderkessel,Japanisch,ADJD,ADJD,ADV,ADJD,True,ADJD,praedikatives Adjektiv in Kopulakonstruktion
+Mehrheit,2,3272,wurden,3_Der Wunderkessel,Japanisch,VERB,AUX,VERB,VERB,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,3278,fest,3_Der Wunderkessel,Japanisch,ADJD,ADJD,ADV,ADJD,False,ADJD,attributiv moeglich (P8)
+Mehrheit,2,3309,hin,3_Der Wunderkessel,Japanisch,ADV,PART,ADV,ADV,False,ADV,feste Wendung 'hin und her'
+Mehrheit,2,3311,her,3_Der Wunderkessel,Japanisch,ADV,PART,ADV,ADV,False,ADV,feste Wendung 'hin und her'
+Mehrheit,2,3314,",",3_Der Wunderkessel,Japanisch,PUNCT,NOUN,PUNCT,PUNCT,False,PUNCT,Satzzeichen (P13)
+Mehrheit,2,3332,dem,3_Der Wunderkessel,Japanisch,PRON,DET,PRON,PRON,False,PRON,Relativpronomen (P12)
+Mehrheit,2,3340,solches,3_Der Wunderkessel,Japanisch,DET,ADJA,ADJA,ADJA,False,DET,Demonstrativum vor Substantiv (P12)
+Mehrheit,2,3349,denn,3_Der Wunderkessel,Japanisch,ADV,CCONJ,ADV,ADV,False,ADV,Modalpartikel
+Mehrheit,2,3350,auch,3_Der Wunderkessel,Japanisch,ADV,PART,PART,PART,True,ADV,Modalpartikel
+Mehrheit,2,3355,vorsichtig,3_Der Wunderkessel,Japanisch,ADJD,ADJD,ADJA,ADJD,False,ADJD,"endungslose Grundform, kein Substantiv folgt (P1/P2)"
+Mehrheit,2,3364,Tanuki,3_Der Wunderkessel,Japanisch,NOUN,NOUN,PROPN,NOUN,True,NOUN,Gattungsbezeichnung mit Artikel
+Mehrheit,2,3367,lassen,3_Der Wunderkessel,Japanisch,VERB,VERB,AUX,VERB,False,VERB,Vollverb; Anleitung Abschnitt 3
+Mehrheit,2,3369,da,3_Der Wunderkessel,Japanisch,ADV,SCONJ,ADV,ADV,False,ADV,Verbzweitstellung
+Mehrheit,2,3383,da,3_Der Wunderkessel,Japanisch,PART,SCONJ,PART,PART,False,PART,Verbzusatz 'dastehen' (P11)
+Mehrheit,2,3384,",",3_Der Wunderkessel,Japanisch,PUNCT,NOUN,PUNCT,PUNCT,False,PUNCT,Satzzeichen (P13)
+Mehrheit,2,3392,gewesen,3_Der Wunderkessel,Japanisch,AUX,VERB,VERB,VERB,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,3634,über,3_Jiraiya,Japanisch,PROPN,ADP,ADP,ADP,False,ADP,Praeposition
+Mehrheit,2,3640,war,3_Jiraiya,Japanisch,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,3641,ja,3_Jiraiya,Japanisch,ADV,PART,PART,PART,False,ADV,Modalpartikel
+Mehrheit,2,3647,der,3_Jiraiya,Japanisch,DET,DET,PRON,DET,False,PRON,Relativpronomen (P12)
+Alle uneins,1,3655,allen,3_Jiraiya,Japanisch,DET,PRON,ADJA,,False,DET,Indefinitum vor Substantiv (P12)
+Alle uneins,1,3683,selbst,3_Jiraiya,Japanisch,ADV,PART,PRON,,True,ADV,Verstaerker bei Reflexivum
+Mehrheit,2,3694,war,3_Jiraiya,Japanisch,AUX,AUX,VERB,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,3776,vorauf,3_Momotaro,Japanisch,ADV,ADV,ADP,ADV,True,ADV,Richtungsadverb
+Mehrheit,2,3780,Dank,3_Momotaro,Japanisch,NOUN,NOUN,ADP,NOUN,True,ADP,'dank' als Praeposition
+Mehrheit,2,3787,allein,3_Momotaro,Japanisch,ADV,ADJD,ADV,ADV,False,ADV,'allein' = nur
+Mehrheit,2,3798,auch,3_Momotaro,Japanisch,ADV,PART,PART,PART,True,ADV,Modalpartikel
+Mehrheit,2,3799,gleich,3_Momotaro,Japanisch,ADV,ADV,PART,ADV,False,ADV,Adverb
+Mehrheit,2,3806,die,3_Momotaro,Japanisch,DET,DET,PRON,DET,False,PRON,Relativpronomen (P12)
+Mehrheit,2,3825,keine,3_Momotaro,Japanisch,DET,DET,PART,DET,True,DET,Artikelwort (P12)
+Mehrheit,2,3841,wie,3_Momotaro,Japanisch,ADV,SCONJ,ADV,ADV,False,ADV,"Exklamativ, Verbzweitstellung"
+Mehrheit,2,3983,einmal,3_Neid bringt Leid,Japanisch,ADV,ADV,PART,ADV,True,ADV,Adverb
+Mehrheit,2,3997,hatte,3_Neid bringt Leid,Japanisch,VERB,AUX,AUX,AUX,False,AUX,Form von sein/haben/werden oder Modalverb; Anleitung Abschnitt 3
+Mehrheit,2,3999,nichts,3_Neid bringt Leid,Japanisch,PART,PRON,PART,PART,True,PRON,Indefinitpronomen
+Mehrheit,2,4000,eiligeres,3_Neid bringt Leid,Japanisch,NOUN,ADJD,NOUN,NOUN,True,NOUN,nominalisiertes Adjektiv (P3)
+Mehrheit,2,4006,geschenkt,3_Neid bringt Leid,Japanisch,ADJD,ADJA,ADJA,ADJA,False,ADJD,"endungslose Grundform, kein Substantiv folgt (P1/P2)"
+Alle uneins,1,4012,damit,3_Neid bringt Leid,Japanisch,ADV,SCONJ,ADP,,False,ADV,Pronominaladverb
+Mehrheit,2,4013,ebenfalls,3_Neid bringt Leid,Japanisch,CCONJ,CCONJ,ADV,CCONJ,False,ADV,Adverb
+Mehrheit,2,4040,kein,3_Neid bringt Leid,Japanisch,DET,DET,PART,DET,True,DET,Artikelwort (P12)
+Mehrheit,2,4043,keine,3_Neid bringt Leid,Japanisch,DET,DET,PART,DET,True,DET,Artikelwort (P12)
+Mehrheit,2,4069,so,3_Neid bringt Leid,Japanisch,ADV,ADV,SCONJ,ADV,False,ADV,Teil von 'so dass'
+Mehrheit,2,4072,jeder,3_Neid bringt Leid,Japanisch,PRON,PRON,NOUN,PRON,False,PRON,substituierend
+Mehrheit,2,4082,gehörig,3_Neid bringt Leid,Japanisch,ADJD,ADJD,ADV,ADJD,False,ADJD,attributiv moeglich (P8)
+Mehrheit,2,4106,allen,3_Neid bringt Leid,Japanisch,DET,ADJA,ADJA,ADJA,True,DET,Indefinitum vor Substantiv (P12)
+Mehrheit,2,4111,die,3_Neid bringt Leid,Japanisch,DET,DET,PRON,DET,False,PRON,Relativpronomen (P12)
