@@ -1,1 +1,21 @@
-test.ipynb
+# Modelle und Trainingsartefakte (groß, reproduzierbar; Modell kommt als Wheel ins Release)
+output/
+packages/
+corpus/*.spacy
+data/processed/*.spacy
+*.whl
+mlruns/
+
+# Pipeline-Ausgaben
+results/
+ergebnisse_*.json
+adjektive_fuer_clustering.*
+
+# Werkzeuge
+.venv/
+.ruff_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+.env
